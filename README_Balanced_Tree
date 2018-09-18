@@ -1,0 +1,7 @@
+To run balancedEvenSumRange.py, enter the command below.
+
+python balancedEvenSumRange.py <data file> <range file> 
+
+If the two additional command-line arguments are not provided, the program will quit immediately and give an error message.
+
+In order for the program to run correctly, the files balancedEvenSumRange.py, RedBlackTree.py, and RedBlackNode.py RedBlackTreeSecondary.py,and RedBlackLeafNode.py must be in the current directory along with the data/range files that are being provided as command-line arguments.
